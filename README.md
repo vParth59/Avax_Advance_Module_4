@@ -28,7 +28,7 @@ To deploy the code locally on the harhdat network, run:
 npx hardhat node
 ```
 
-and then run:
+to deploy it on your local subnet, change the rpc url in hardhat.config and add your private key in .env and run:
 
 ```
 npx hardhat run --network mySubnet scripts/deploy.js

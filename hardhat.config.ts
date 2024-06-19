@@ -25,7 +25,7 @@ module.exports = {
     },
 
     mySubnet: {
-      url: " http://127.0.0.1:9650/ext/bc/2X73AujzGDtMxiN3ivqMqmbpjjVzpWJLvJqtgViB7SopLYvtx2/rpc",
+      url: "http://127.0.0.1:9650/ext/bc/BEkM2RXobjxBMQqJoHm9Y5b7uY3tXJfHfsNnAqo33XwoWvYvo/rpc",
       accounts: [_PRIVATE_KEY],
       chainID: 79,
     },
